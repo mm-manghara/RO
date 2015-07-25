@@ -1,0 +1,13 @@
+D:\ROServiceApp\ROServiceApp\bin\Debug\ROServiceApp.exe.config
+D:\ROServiceApp\ROServiceApp\bin\Debug\ROServiceApp.exe
+D:\ROServiceApp\ROServiceApp\bin\Debug\ROServiceApp.pdb
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.csprojResolveAssemblyReference.cache
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.AddClient.resources
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.AddComponent.resources
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.AddProduct.resources
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.Main.resources
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.Properties.Resources.resources
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.Sale.resources
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.csproj.GenerateResource.Cache
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.exe
+D:\ROServiceApp\ROServiceApp\obj\Debug\ROServiceApp.pdb
